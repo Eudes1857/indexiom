@@ -57,7 +57,7 @@ function App() {
           <Route exact path="/panier">
             <Basket/> 
           </Route> 
-          <Route path="/nous-contacter" component={ContactPage}/>        
+          <Route path="/nous-contacter" component={ContactPage }/>        
         </Switch>
       {/*<Section {...iZeroSectionData} />
       <Section {...iStudioData} />
