@@ -1,0 +1,914 @@
+{
+  "catalogues": [
+    {
+      "id": 0,
+      "name": "Nos prestations",
+      "categories": [
+        {
+          "id": 1,
+          "name": "Indexiom Zero",
+          "message": "",
+          "subCategories": [
+            {
+              "id": 3,
+              "name": "Produit et service",
+              "products": [
+                {
+                  "id": 4,
+                  "sku": "ZERProGoldC1SC1Son",
+                  "image": "ZERProGoldC1SC1Son",
+                  "type": "Sondage national M",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Produit et service",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 1,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Pro",
+                  "nomPrestation": "Golden Price point",
+                  "delai": 8,
+                  "resumeDetaille": "Quel est le meilleur prix pour mieux vendre?",
+                  "prixTTCCFA": 36202400,
+                  "prixTTCEuroEnK": 55190,
+                  "presentation": "La fixation du prix est une question centrale dans le lancement d'un produit ou d'un service.\nEn effet, le prix que vous aurez choisi déterminera entre autres:\n- le profil de vos clients et leur niveau d'exigence vis-à-vis de vous\n- votre image de marque et la valeur que vous voulez communiquer\n- le volume de vos ventes, de votre profit et in fine de vos chances de survie\nNotre prestation 'Golden Price point' fait référence au niveau de prix psychologique idéal ou prix d'acceptabilité optimal de votre produit ou service.\nC'est le niveau de prix qui maximise votre profit sur un marché donné à une période déterminée.\nC'est un concept marketing à la frontière de la théorie microéconomique,\ndes statistiques et de la psychologie.\nSon calcul relativement complexe s'appuie sur un sondage réalisé auprès d'un panel de personnes correspondant à votre cible de clients."
+                },
+                {
+                  "id": 5,
+                  "sku": "ZERProBestC1SC1Rec",
+                  "image": "ZERProBestC1SC1Rec",
+                  "type": "Recherche marketing",
+                  "souscategorie": "Produit et service",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 1,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Pro",
+                  "nomPrestation": "Best Seller",
+                  "delai": 2,
+                  "resumeDetaille": "Qu'est-ce qui se fait de mieux de par le monde dans mon type d'activité ?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": "Innover en permanence est l'une des clés pour péréniser votre marque, votre produit ou service. Sans innovation (Produit-services), 30% de vos clients satisfaifs vous quitteront chaque année. En effet, votre capacité à pouvoir proposer un service d'un niveau au moins égal à ce qui se fait de mieux de par le monde est essentiel: - Pour fidéliser vos clients et en attirer de nouveaux - Pour rester à jour et éviter d'être dépassé par la concurrence - Pour asseoir votre image de marque et apporter toujours plus de valeur au marché  Notre prestation 'Best Seller' est un rapport synthétique de ce qui se fait de mieux de par le monde dans votre domaine d'activité.  C'est un outil essentiel pour innover et rester au parfum des tendances et possibilités d'amélioration. En tant que sources d'idées, Il rentre dans le cadre de la variable Produit de votre marketing mix et vous permet de vous poser les bonnes questions sur votre stratégie de développement afin de prendre les décisions qui vous aideront à dépasser vos objectifs."
+                },
+                {
+                  "id": 6,
+                  "sku": "ZERProInteC1SC1Son",
+                  "type": "Sondage national M",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Produit et service",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 1,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Pro",
+                  "nomPrestation": "Intention d'achat",
+                  "delai": 8,
+                  "resumeDetaille": "Combien de personnes sont prêtes à acheter mon produit/service ?",
+                  "prixTTCCFA": 36202400,
+                  "prixTTCEuroEnK": 55190,
+                  "presentation": ""
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "name": "Clients",
+              "products": [
+                {
+                  "id": 8,
+                  "sku": "ZERCliPersC1SC2Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Client",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Cli",
+                  "nomPrestation": "Personas",
+                  "delai": 2,
+                  "resumeDetaille": "Qui sont mes clients potentiels?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": ""
+                },
+                {
+                  "id": 9,
+                  "sku": "ZERCliMotiC1SC2Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Client",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Cli",
+                  "nomPrestation": "Motivation",
+                  "delai": 2,
+                  "resumeDetaille": "Quels sont les motivations de mes clients potentiels ?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": ""
+                },
+                {
+                  "id": 10,
+                  "sku": "ZERCliCanaC1SC2Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Client",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Cli",
+                  "nomPrestation": "Canaux",
+                  "delai": 2,
+                  "resumeDetaille": "Où trouver des clients ?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": ""
+                },
+                {
+                  "id": 11,
+                  "sku": "ZERCliPercC1SC2Son",
+                  "type": "Sondage national M",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Client",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Cli",
+                  "nomPrestation": "Perception",
+                  "delai": 8,
+                  "resumeDetaille": "Que pensent mes clients de mon produit/service ?",
+                  "prixTTCCFA": 36202400,
+                  "prixTTCEuroEnK": 55190,
+                  "presentation": ""
+                },
+                {
+                  "id": 12,
+                  "sku": "ZERCliCommC1SC2Son",
+                  "type": "Sondage national M",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Client",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Cli",
+                  "nomPrestation": "Communication",
+                  "delai": 8,
+                  "resumeDetaille": "Quel message aura le plus d'impact sur ma cible ?",
+                  "prixTTCCFA": 36202400,
+                  "prixTTCEuroEnK": 55190,
+                  "presentation": ""
+                },
+                {
+                  "id": 13,
+                  "sku": "ZERCliNPS C1SC2Son",
+                  "type": "Sondage national XS",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Client",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Cli",
+                  "nomPrestation": "NPS - Net Promoter score",
+                  "delai": 8,
+                  "resumeDetaille": "Mes clients sont ils prêts à me recommander ?",
+                  "prixTTCCFA": 26998400,
+                  "prixTTCEuroEnK": 41159,
+                  "presentation": ""
+                },
+                {
+                  "id": 14,
+                  "sku": "ZERCliCES C1SC2Son",
+                  "type": "Sondage national XS",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Client",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Cli",
+                  "nomPrestation": "CES - Customer effort score",
+                  "delai": 8,
+                  "resumeDetaille": "Ma solution est-elle accéssible ?",
+                  "prixTTCCFA": 26998400,
+                  "prixTTCEuroEnK": 41159,
+                  "presentation": ""
+                }
+              ]
+            },
+            {
+              "id": 15,
+              "name": "Marché et Concurrence",
+              "products": [
+                {
+                  "id": 16,
+                  "sku": "ZERMarBesoC1SC3Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Marché et Concurrence",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Mar",
+                  "nomPrestation": "Besoin",
+                  "delai": 2,
+                  "resumeDetaille": "De quoi mon marché a-t-il besoin actuellement?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": ""
+                },
+                {
+                  "id": 17,
+                  "sku": "ZERMarPESTC1SC3Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Marché et Concurrence",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Mar",
+                  "nomPrestation": "PESTEL ",
+                  "delai": 2,
+                  "resumeDetaille": "Que se passe-t-il actuellement sur mon marché ?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": ""
+                },
+                {
+                  "id": 18,
+                  "sku": "ZERMarSWOTC1SC3Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Marché et Concurrence",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Mar",
+                  "nomPrestation": "SWOT",
+                  "delai": 2,
+                  "resumeDetaille": "Qui sont mes concurrents?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": ""
+                },
+                {
+                  "id": 19,
+                  "sku": "ZERMarVeilC1SC3Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Marché et Concurrence",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Mar",
+                  "nomPrestation": "Veille ",
+                  "delai": 2,
+                  "resumeDetaille": "Que font mes concurrents actuellement?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": ""
+                },
+                {
+                  "id": 20,
+                  "sku": "ZERMarPosiC1SC3Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Marché et Concurrence",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Mar",
+                  "nomPrestation": "Positionnement",
+                  "delai": 2,
+                  "resumeDetaille": "Que disent mes concurrents?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": ""
+                },
+                {
+                  "id": 21,
+                  "sku": "ZERMarScorC1SC3Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Marché et Concurrence",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Mar",
+                  "nomPrestation": "Score BARTIMAEUS",
+                  "delai": 2,
+                  "resumeDetaille": "Quel est le classement des marques et prestataires sur mon marché?",
+                  "prixTTCCFA": 59000,
+                  "prixTTCEuroEnK": 90,
+                  "presentation": ""
+                }
+              ]
+            },
+            {
+              "id": 22,
+              "name": "Stratégie Marketing",
+              "products": [
+                {
+                  "id": 23,
+                  "sku": "ZERStrSCP C1SC3Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Stratégie Marketing",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Str",
+                  "nomPrestation": "SCP - Ciblage et positionnement ",
+                  "delai": 2,
+                  "resumeDetaille": "Qui cibler et comment se positionner ?",
+                  "prixTTCCFA": 250160,
+                  "prixTTCEuroEnK": 381,
+                  "presentation": ""
+                },
+                {
+                  "id": 24,
+                  "sku": "ZERStr4Ps C1SC3Rec",
+                  "type": "Recherche marketing",
+                  "categorie": "Indexiom Zéro",
+                  "souscategorie": "Stratégie Marketing",
+                  "indiceCategorie": 1,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "ZER",
+                  "codeSousCategorie": "Str",
+                  "nomPrestation": "4Ps - Mix marketing",
+                  "delai": 2,
+                  "resumeDetaille": "Comment se différencier pour communiquer une valeur durablement perçue comme supérieure dans l'esprit du client ?",
+                  "prixTTCCFA": 250160,
+                  "prixTTCEuroEnK": 381,
+                  "presentation": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Indexiom Studios",
+          "message": "",
+          "subCategories": [
+            {
+              "id": 26,
+              "name": "Logo et charte graphique",
+              "products": [
+                {
+                  "id": 27,
+                  "sku": "STULogLogoC2SC1Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Logo et charte graphique",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 1,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Log",
+                  "nomPrestation": "Logo Icone",
+                  "delai": 1,
+                  "resumeDetaille": "Achetez Un symbole unique, original et facile à mémoriser pour vous démarquer véritablement",
+                  "prixTTCCFA": 495600,
+                  "prixTTCEuroEnK": 756,
+                  "presentation": ""
+                },
+                {
+                  "id": 28,
+                  "sku": "STULogLogoC2SC1Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Logo et charte graphique",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 1,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Log",
+                  "nomPrestation": "Logo Textuel",
+                  "delai": 1,
+                  "resumeDetaille": "Achetez Le nom de votre marque est stylisé comme une signature pour vous distinguer de la concurrence",
+                  "prixTTCCFA": 259600,
+                  "prixTTCEuroEnK": 396,
+                  "presentation": ""
+                },
+                {
+                  "id": 29,
+                  "sku": "STULogLogoC2SC1Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Logo et charte graphique",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 1,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Log",
+                  "nomPrestation": "Logo mixte",
+                  "delai": 1,
+                  "resumeDetaille": "Achetez Un logo mémorable et exceptionnel alliant icone et texte stylisé",
+                  "prixTTCCFA": 731600,
+                  "prixTTCEuroEnK": 1115,
+                  "presentation": ""
+                }
+              ]
+            },
+            {
+              "id": 30,
+              "name": "Maquette de site Internet",
+              "products": [
+                {
+                  "id": 31,
+                  "sku": "STUMaqSiteC2SC2Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Maquette de site Internet",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Maq",
+                  "nomPrestation": "Site Internet Vitrine",
+                  "delai": 4,
+                  "resumeDetaille": "Achetez La maquette dernière génération qu'il faut pour un site Internet à l'image de vos ambitions",
+                  "prixTTCCFA": 731600,
+                  "prixTTCEuroEnK": 1115,
+                  "presentation": ""
+                },
+                {
+                  "id": 32,
+                  "sku": "STUMaqSiteC2SC2Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Maquette de site Internet ",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Maq",
+                  "nomPrestation": "Site de vente en ligne ",
+                  "delai": 5,
+                  "resumeDetaille": "Achetez Une maquette avant-gardiste pour votre boutique en ligne",
+                  "prixTTCCFA": 967600,
+                  "prixTTCEuroEnK": 1475,
+                  "presentation": ""
+                },
+                {
+                  "id": 33,
+                  "sku": "STUMaqApplC2SC2Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Maquette de site Internet",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Maq",
+                  "nomPrestation": "Application mobile",
+                  "delai": 7,
+                  "resumeDetaille": "Achetez Une maquette personnalisée réflétant le caractère novateur de votre application mobile",
+                  "prixTTCCFA": 1203600,
+                  "prixTTCEuroEnK": 1835,
+                  "presentation": ""
+                }
+              ]
+            },
+            {
+              "id": 34,
+              "name": "Site Web / Application mobile",
+              "products": [
+                {
+                  "id": 35,
+                  "sku": "STUFEDéveC2SC3Dév",
+                  "type": "Développement Front End",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Site Web ou Application mobile à 30% d'achèvement",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "FE",
+                  "nomPrestation": "Développement Back-End sur mesure pour Site Web ou Application mobile personnalisée",
+                  "delai": 13,
+                  "resumeDetaille": "Réservez une équipe unique de développeurs Front end de pointe pour réussir votre projet Web révolutionnaire par une conception sur mesure",
+                  "prixTTCCFA": 1203600,
+                  "prixTTCEuroEnK": 1835,
+                  "presentation": ""
+                },
+                {
+                  "id": 36,
+                  "sku": "STUBEDéveC2SC4Dév",
+                  "type": "Développement Back End",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Site Web ou Application mobile à 30% d'achèvement",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 4,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "BE",
+                  "nomPrestation": "Développement Front-End sur mesure pour Site Web ou Application mobile personnalisée",
+                  "delai": 13,
+                  "resumeDetaille": "Réservez une équipe unique de développeurs Front end de pointe pour réussir votre projet Web révolutionnaire par une conception sur mesure",
+                  "prixTTCCFA": 1203600,
+                  "prixTTCEuroEnK": 1835,
+                  "presentation": ""
+                }
+              ]
+            },
+            {
+              "id": 37,
+              "name": "Affiche Publicitaire",
+              "products": [
+                {
+                  "id": 38,
+                  "sku": "STUAffVisuC2SC5Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Affiche Publicitaire",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 5,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Aff",
+                  "nomPrestation": "Visuel sans shooting photo exclusif",
+                  "delai": 1,
+                  "resumeDetaille": "Achetez Un visuel puissant et sobre pour souligner votre prestige",
+                  "prixTTCCFA": 125080,
+                  "prixTTCEuroEnK": 191,
+                  "presentation": ""
+                },
+                {
+                  "id": 39,
+                  "sku": "STUAffVisuC2SC5Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Affiche Publicitaire",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 5,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Aff",
+                  "nomPrestation": "Visuel avec shooting photo de mannequin pour exploitation editoriale",
+                  "delai": 2,
+                  "resumeDetaille": "Achetez Une création graphique raffinée dans le langage de votre audience",
+                  "prixTTCCFA": 239304,
+                  "prixTTCEuroEnK": 365,
+                  "presentation": ""
+                }
+              ]
+            },
+            {
+              "id": 40,
+              "name": "Vidéo pubicitaire",
+              "products": [
+                {
+                  "id": 41,
+                  "sku": "STUVidDiapC2SC6Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Vidéo pubicitaire",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 6,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Vid",
+                  "nomPrestation": "Diaporama - Texte sans shooting ",
+                  "delai": 2,
+                  "resumeDetaille": "Achetez Un diaporama puissant et sobre pour souligner votre prestige",
+                  "prixTTCCFA": 306800,
+                  "prixTTCEuroEnK": 468,
+                  "presentation": ""
+                },
+                {
+                  "id": 42,
+                  "sku": "STUVidSpotC2SC6Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Vidéo pubicitaire",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 6,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Vid",
+                  "nomPrestation": "Spot publicitaire - Vidéo avec shooting de mannequin pour exploitation editoriale",
+                  "delai": 4,
+                  "resumeDetaille": "Achetez Un clip publicitaire raffinée en phase avec votre audience",
+                  "prixTTCCFA": 469404,
+                  "prixTTCEuroEnK": 716,
+                  "presentation": ""
+                },
+                {
+                  "id": 43,
+                  "sku": "STUVidAnimC2SC6Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Vidéo pubicitaire",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 6,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Vid",
+                  "nomPrestation": "Animation - Vidéo avec dessins animés",
+                  "delai": 5,
+                  "resumeDetaille": "Achetez Une vidéo haut de gamme qui reflète l'esprit jeune et dynamique de votre marque",
+                  "prixTTCCFA": 377600,
+                  "prixTTCEuroEnK": 576,
+                  "presentation": ""
+                },
+                {
+                  "id": 44,
+                  "sku": "STUVidVidéC2SC6Cré",
+                  "type": "Création graphique",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Vidéo pubicitaire",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 6,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Vid",
+                  "nomPrestation": "Vidéo mixte - Mannequin et dessins animés",
+                  "delai": 5,
+                  "resumeDetaille": "Achetez Bien plus qu'une vidéo, une histoire pour émouvoir votre audience et la faire réagir",
+                  "prixTTCCFA": 448400,
+                  "prixTTCEuroEnK": 684,
+                  "presentation": ""
+                }
+              ]
+            },
+            {
+              "id": 45,
+              "name": "Copywritting",
+              "products": [
+                {
+                  "id": 46,
+                  "sku": "STUCopSignC2SC7Réd",
+                  "type": "Rédaction de contenu",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Copywritting",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 7,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Cop",
+                  "nomPrestation": "Signature de marque ou baseline",
+                  "delai": 1,
+                  "resumeDetaille": "Achetez Un slogan qui marquera l'histoire et traversera le temps",
+                  "prixTTCCFA": 37760,
+                  "prixTTCEuroEnK": 58,
+                  "presentation": ""
+                },
+                {
+                  "id": 47,
+                  "sku": "STUCopSlogC2SC7Réd",
+                  "type": "Rédaction de contenu",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Copywritting",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 7,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Cop",
+                  "nomPrestation": "Slogans ou phrase d'accroche ",
+                  "delai": 1,
+                  "resumeDetaille": "Achetez La phrase qui restera gravée dans tous les esprits et dont le client se souviendra toujours au moment de choisir votre marque",
+                  "prixTTCCFA": 37760,
+                  "prixTTCEuroEnK": 58,
+                  "presentation": ""
+                },
+                {
+                  "id": 48,
+                  "sku": "STUCopPublC2SC7Réd",
+                  "type": "Rédaction de contenu",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Copywritting",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 7,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Cop",
+                  "nomPrestation": "Publication réseaux sociaux",
+                  "delai": 1,
+                  "resumeDetaille": "Achetez des publications qui séduiront et influenceront en votre faveur le comportement de votre audience",
+                  "prixTTCCFA": 37760,
+                  "prixTTCEuroEnK": 58,
+                  "presentation": ""
+                },
+                {
+                  "id": 49,
+                  "sku": "STUCopSMS C2SC7Réd",
+                  "type": "Rédaction de contenu",
+                  "categorie": "Indexiom Studios",
+                  "souscategorie": "Copywritting",
+                  "indiceCategorie": 2,
+                  "indiceSousCategorie": 7,
+                  "codeCategorie": "STU",
+                  "codeSousCategorie": "Cop",
+                  "nomPrestation": "SMS de campagne",
+                  "delai": 1,
+                  "resumeDetaille": "Achetez Un message bref qui incite à une action immédiate",
+                  "prixTTCCFA": 37760,
+                  "prixTTCEuroEnK": 58,
+                  "presentation": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "name": "Indexiom Commandos",
+          "message": "",
+          "subCategories": [
+            {
+              "id": 51,
+              "name": "Caravane mobile",
+              "products": [
+                {
+                  "id": 52,
+                  "sku": "COMPlCaraC3SC1Act",
+                  "type": "Activation Street 1",
+                  "categorie": "Indexiom commando",
+                  "souscategorie": "Caravane mobile",
+                  "indiceCategorie": 3,
+                  "indiceSousCategorie": 1,
+                  "codeCategorie": "COM",
+                  "codeSousCategorie": "Pl",
+                  "nomPrestation": "Caravane à Pied ",
+                  "delai": 4,
+                  "resumeDetaille": "Achetez Le pack pour aller naturellement à la rencontre de vos clients potentiels, leur présenter votre solution et rester en contact avec eux",
+                  "prixTTCCFA": 3245561,
+                  "prixTTCEuroEnK": 4948,
+                  "presentation": ""
+                },
+                {
+                  "id": 53,
+                  "sku": "COMPoCaraC3SC1Act",
+                  "type": "Activation Street 2",
+                  "categorie": "Indexiom commando",
+                  "souscategorie": "Caravane mobile",
+                  "indiceCategorie": 3,
+                  "indiceSousCategorie": 1,
+                  "codeCategorie": "COM",
+                  "codeSousCategorie": "Po",
+                  "nomPrestation": "Caravane Camion Podium",
+                  "delai": 4,
+                  "resumeDetaille": "Achetez Le pack pour être vraiment visible dans la vie réelle en dehors des écran et créer une connexion unique avec votre cible",
+                  "prixTTCCFA": 4636515,
+                  "prixTTCEuroEnK": 7068,
+                  "presentation": ""
+                },
+                {
+                  "id": 54,
+                  "sku": "COMRoCaraC3SC1Act",
+                  "type": "Activation Street 3",
+                  "categorie": "Indexiom commando",
+                  "souscategorie": "Caravane mobile",
+                  "indiceCategorie": 3,
+                  "indiceSousCategorie": 1,
+                  "codeCategorie": "COM",
+                  "codeSousCategorie": "Ro",
+                  "nomPrestation": "Caravane à Rollers",
+                  "delai": 4,
+                  "resumeDetaille": "Achetez Le pack pour aller avec style à la rencontre de vos clients potentiels, montrer le dynamisme de votre marque et rester à jamais dans leur cœur",
+                  "prixTTCCFA": 6027470,
+                  "prixTTCEuroEnK": 9189,
+                  "presentation": ""
+                }
+              ]
+            },
+            {
+              "id": 55,
+              "name": "Caravane statique",
+              "products": [
+                {
+                  "id": 56,
+                  "sku": "COMPasAnimC3SC2Org",
+                  "type": "Organisation Event 1",
+                  "categorie": "Indexiom commando",
+                  "souscategorie": "Caravane statique",
+                  "indiceCategorie": 3,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "COM",
+                  "codeSousCategorie": "Pas",
+                  "nomPrestation": "Animation plein air - sans podium",
+                  "delai": 4,
+                  "resumeDetaille": "Offrez un expérience humaine inoubliable à votre audience et transformez la en clientèle fidèle",
+                  "prixTTCCFA": 3539705,
+                  "prixTTCEuroEnK": 5396,
+                  "presentation": ""
+                },
+                {
+                  "id": 57,
+                  "sku": "COMPapAnimC3SC2Org",
+                  "type": "Organisation Event 2",
+                  "categorie": "Indexiom commando",
+                  "souscategorie": "Caravane statique",
+                  "indiceCategorie": 3,
+                  "indiceSousCategorie": 2,
+                  "codeCategorie": "COM",
+                  "codeSousCategorie": "Pap",
+                  "nomPrestation": "Animation plein avec - podium",
+                  "delai": 4,
+                  "resumeDetaille": "Offrez un souvenir divertissant inoubliable à votre audience et transformez la en clientèle fidèle",
+                  "prixTTCCFA": 4736225,
+                  "prixTTCEuroEnK": 7220,
+                  "presentation": ""
+                },
+                {
+                  "id": 58,
+                  "sku": "COMPapAnimC3SC2Org",
+                  "type": "Organisation Event 3",
+                  "categorie": "Indexiom commando",
+                  "souscategorie": "Caravane statique",
+                  "indiceCategorie": 3,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "COM",
+                  "codeSousCategorie": "Sr",
+                  "nomPrestation": "Animation en salle avec cocktail et artiste - audience restreinte",
+                  "delai": 4,
+                  "resumeDetaille": "Offrez une expérience mémorable au noyau de votre audience et transformez la en clientèle grâce à notre méthode secrète",
+                  "prixTTCCFA": 10385794,
+                  "prixTTCEuroEnK": 15833,
+                  "presentation": ""
+                },
+                {
+                  "id": 59,
+                  "sku": "43COMSmAnimC3SC3Org",
+                  "type": "Organisation Event 4",
+                  "categorie": "Indexiom commando",
+                  "souscategorie": "Caravane statique",
+                  "indiceCategorie": 3,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "COM",
+                  "codeSousCategorie": "Sm",
+                  "nomPrestation": "Animation en salle avec avec cocktail et artiste - audience moyenne",
+                  "delai": 4,
+                  "resumeDetaille": "Offrez une expérience unique et un souvenir inoubliable aux futurs ambassadeurs de votre marque et transformez les en clients grâce à notre méthode secrète",
+                  "prixTTCCFA": 14836848,
+                  "prixTTCEuroEnK": 22619,
+                  "presentation": ""
+                },
+                {
+                  "id": 60,
+                  "sku": "44COMSlAnimC3SC3Org",
+                  "type": "Organisation Event 5",
+                  "categorie": "Indexiom commando",
+                  "souscategorie": "Caravane statique",
+                  "indiceCategorie": 3,
+                  "indiceSousCategorie": 3,
+                  "codeCategorie": "COM",
+                  "codeSousCategorie": "Sl",
+                  "nomPrestation": "Animation en salle avec avec cocktail et artiste - audience large",
+                  "delai": 4,
+                  "resumeDetaille": "Offrez une expérience mémorable et un souvenir inoubliable à une large partie de votre audience et transformez les en clients grâce à notre méthode secrète",
+                  "prixTTCCFA": 19287902,
+                  "prixTTCEuroEnK": 29404,
+                  "presentation": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Nos packs promotionnels",
+      "packs": [
+        {
+          "id": 0,
+          "name": "Plan Marketing 360° - Light",
+          "products":[
+            {
+              "description": "<p>L'illustre stratège Sun Tzu disait dans l'Art de la guerre que Tout le succès d'une opération réside dans sa préparation. Démarrez votre conquête du marché avec un plan d'attaque de base, personnalisé pour solutionner les problèmes avant qu'ils ne surviennent.<p>",
+              "contentPrestation": "<div><ul><li>Plan marketing 360° - Light</li><li>-Best Seller</li><li>-Personas</li><li>-Motivation</li><li>-Canaux</li><li>-Besoin</li><li>-PESTEL</li><li>-SWOT</li><li>-Veille </li><li>-Positionnement</li><li>-Score BARTIMAEUS</li><li>-SCP - Ciblage et positionnement</li><li>-4Ps - Mix marketing Light</li></ul></div>",
+              "leadTime": 2,
+              "priceCfa": "<p>545 160</P>",
+              "priceEuro": "<p>831</p>"
+            }
+          ] 
+        },
+        {
+          "id": 1,
+          "name": "Decollage basique",
+          "products": [
+            {
+              "description": "<p>Analyser la dynamique de votre marché et lancez avec succès votre marque, produit ou service révolutionnaire en moins de 4 mois<p>",
+              "contentPrestation": " <div><ul><li>Etude de marché basique et Plan marketing 360° - Light</li><li>Best Seller</li><li>Personas</li><li>Motivation</li><li>Canaux</li><li>Besoin</li><li>PESTEL</li><li>SWOT</li><li>Veille </li><li>Positionnement</li><li>Score BARTIMAEUS</li><li>SCP - Ciblage et positionnement</li><li>4Ps - Mix marketing Light</li></ul><ul><li>Identité Visuelle et Présence en ligne</li><li>Logo Textuel</li><li>Site Internet Vitrine</li></ul> <ul><li>Campagne de communication digitale</li><li>2X Visuel avec shooting photo</li></ul></div>",
+              "leadTime": 14,
+              "priceCfa":"<p>2 590 100</P>",
+              "piceCfaValue": 2590100,
+              "priceEuro": "<p>3 949</P>",
+              "priceEuroValue": 3949
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Application mobile",
+          "products": [
+            {
+              "description": "<p>Déployez en 3 mois votre prochaine application mobile qui va révolutionner le marché et conforter votre statut de leader</p>",
+              "contentPrestation": "<div><ul><li>Application Mobile compatible Android et iOS</li><li>Parcours client</li><li>Maquette infographique</li><li>Développement Back-End sur mesure</li><li>Développement Front-End sur mesure</li></ul><ul><li>Identité Visuelle et Présence en ligne</li><li>Logo Textuel</li><li>Site Internet Vitrine</li></ul><ul><li>Campagne de communication digitale<p><li>2X Visuel avec shooting photo</li><li>Spot publicitaire Vidéo avec shooting </li></ul>",
+              "leadTime": 12,
+              "paymentOption": "",
+              "priceCfa": "<p>4 952 140</p>",
+              "priceEuro": "<p>7 549</P>"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Décollage Prestige",
+          "products": [
+            {
+              "description": "<p>L'illustre stratège Sun Tzu disait dans l'Art de la guerre que Celui qui excelle à resoudre les difficultés le fait avant qu'elles ne surviennent. Comfortez votre lecture du marché et rassurez vos investisseurs avec un plan marketing 360° appuyé par toutes les études approfondies nécessaires pour vous aider à vous décider. En plus des réponses aux questions indispensables à tout lancement, ce Package vous donne non seulement droit à des supports visuels et des vidéos professionnelles qui vous démarqueront en ligne mais encore à une campagne hors ligne indispensable pour batir ou élargir votre réseau d'ambassadeurs et réussir votre conquête du marché <p>",
+              "contentPrestation": "<div><ul><li>Etude de marché complète et Plan marketing 360°</li><li>Golden Price point</li><li>Best Seller</li><li>Intention d'achat</li><li>Personas</li><li>Motivation</li><li>Canaux</li><li>Perception</li><li>Communication</li><li>NPS - Net Promoter score</li><li>CES - Customer effort score</li><li>Besoin</li><li>PESTEL </li><li>SWOT</li><li>Veille </li><li>Positionnement</li><li>Score BARTIMAEUS</li><li>SCP - Ciblage et positionnement </li><li>4Ps - Mix marketing</li></ul><ul><li>Identité Visuelle et Présence en ligne</li><li>Logo Icone</li><li>Site Internet </li><li><ul><li>Campagne de communication digitale</li><li>X Visuel avec shooting photo</li><li>2X Spot publicitaire - Vidéo avec shooting</li><li>Campagne de communication offline</li></li></ul></ul>",
+              "leadTime": 11,
+              "paymentOption": "",
+              "priceCfa": "<p>121 281 202</p>",
+              "priceEuro": "<p>184892</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
